@@ -2,7 +2,7 @@
 Data Structure and Algorithms
 
 
-| Alineado a la izquierda | Alineado en el centro | Alineado a la derecha |
+| Ejercicio | Alineado en el centro | Link |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| Two Sum   | git status     | [LeetCode](https://leetcode.com/problems/two-sum/)    |
 | git diff     | git diff       | git diff      |
